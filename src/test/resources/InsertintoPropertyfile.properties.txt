@@ -1,0 +1,5 @@
+#COMMONDATA
+#Sun Mar 03 17:22:01 IST 2024
+password=secret_sauce
+url=./src/test/resources/InsertintoPropertyfile.properties.txt
+username=standard_user
